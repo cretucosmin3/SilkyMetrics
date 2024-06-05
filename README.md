@@ -1,2 +1,2 @@
 # SilkyMetrics
-A library to display game or application metrics with.
+A C# library to display game or application metrics with.
